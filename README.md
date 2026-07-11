@@ -3,8 +3,8 @@
 **CCS3308 - Virtualization and Containers**
 
 **Registration Number:** CIT-24-01-0004
-**Author:** [ඔයාගේ පූර්ණ නම මෙතන දාන්න]
-**GitHub Repo:** https://github.com/[ඔයාගේ-username]/CIT-24-01-0004
+**Author:** D.M.J.B.Disanayake
+**GitHub Repo:** https://github.com/janalanka/CIT-24-01-0004
 
 ## Application Description
 
